@@ -15,3 +15,8 @@ For 2/2/2020
 - Update the UA Logo to be smaller on desktop by using Columns/Rows from Bootstrap
 - Start adding some color to the site to make it more upbeat, not as gray/bland
 - Add more of my content.
+
+Actual 2/2/2020
+- Created a Contact Me card
+- Aligned the text and objects to center, to make whitespace less pronounced
+- added LinkedIn and Github icons/links.
