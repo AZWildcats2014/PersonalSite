@@ -20,3 +20,7 @@ Actual 2/2/2020
 - Created a Contact Me card
 - Aligned the text and objects to center, to make whitespace less pronounced
 - added LinkedIn and Github icons/links.
+
+2/3/2020
+- Completed base project
+- Will add color as seen fit
