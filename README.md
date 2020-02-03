@@ -1,6 +1,8 @@
 # PersonalSite
 Personal Website for my projects, resume, and portfolio
 
+Website is now LIVE: eaguayo.com
+
 2/1/2020
 - Began working on updating my Personal Website
 - Used Bootstrap NavBar
